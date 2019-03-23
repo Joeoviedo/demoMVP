@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mapsalud</string>
+    <string name="SplashScreen_Activity_MapsSalud">Mapsalud</string>
+    <string name="SplashScreen_Activity_pagina_text">Pagina</string>
+    <string name="MainActivity_buscar">Buscar</string>
+    <string name="Main_Activity_toolbar_text">MapSalud</string>
+    <string name="error_main_nombre_empty_text">Ingrese Pagina</string>
+    <string name="error_text">Error</string>
+    <string name="alert_accept_text">Aceptar</string>
+    <string name="error_internalserver">Servidor no disponible</string>
+    <string name="error_unauthorized">Su sesión ha expirado</string>
+    <string name="error_main_generic">No se ha podido obtener la información</string>
+    <string name="permissions_not_granted">Debe brindar los permisos a la aplicación para poder utilizarla</string>
+
+</resources>

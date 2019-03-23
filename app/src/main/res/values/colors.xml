@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/mapsalud2</color>
+    <color name="colorPrimaryDark">@color/mapsalud</color>
+    <color name="colorAccent">@color/mapsalud</color>
+
+    <color name="mapsalud">#7e57c2</color>
+    <color name="mapsalud2">#b085f5</color>
+    <color name="white">#ffffff</color>
+    <color name="colorReportProblem">#D0021B</color>
+</resources>
